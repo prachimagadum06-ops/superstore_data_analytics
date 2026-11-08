@@ -1,6 +1,6 @@
 
 
-![Super Store Dashboard] (Screenshot/superstore_img.png)
+![Super Store Dashboard] (Screenshots/superstore_img.png)
 
 
 
