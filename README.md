@@ -1,3 +1,12 @@
+
+
+![Super Store Dashboard] (Screenshot/superstore_img.png)
+
+
+
+
+
+
 Superstore Data Analytics Project
 
 Project Overview
